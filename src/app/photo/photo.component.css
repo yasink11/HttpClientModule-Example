@@ -1,0 +1,11 @@
+img {
+    width: 100fr;
+    height: 100vh;
+  }
+  .maindiv
+  {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0px;
+  }
+  
